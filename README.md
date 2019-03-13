@@ -1,2 +1,4 @@
 # hello-world1
-Practice Repository
+
+My name is Justin.
+I am new to coding and look forward to learning.
